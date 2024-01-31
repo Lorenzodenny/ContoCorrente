@@ -16,7 +16,7 @@
                 int numero = int.Parse(Console.ReadLine());
                 arrayNumeri[i] = numero;
 
-                somma = somma + numero;
+                somma = somma + numero; // cambiamento
             }
             media = somma / numeroNumeri;
 
